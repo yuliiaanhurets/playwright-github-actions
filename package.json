@@ -1,0 +1,22 @@
+{
+  "name": "playwright-github-actions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuliiaanhurets/playwright-github-actions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuliiaanhurets/playwright-github-actions/issues"
+  },
+  "homepage": "https://github.com/yuliiaanhurets/playwright-github-actions#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.41.2",
+    "@types/node": "^20.11.16"
+  }
+}
